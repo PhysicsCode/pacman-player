@@ -1,0 +1,6 @@
+
+resteasy:
+  jaxrs:
+    app:
+      registration: property
+      classes: org.amazing.plays.rest.RestPublicApplication

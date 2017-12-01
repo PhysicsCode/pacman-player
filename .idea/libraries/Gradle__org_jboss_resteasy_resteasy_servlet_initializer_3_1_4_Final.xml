@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.resteasy:resteasy-servlet-initializer:3.1.4.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/resteasy-servlet-initializer/3.1.4.Final/baf30f7f23f95f14baf3c68af9b9a2ea222a18ab/resteasy-servlet-initializer-3.1.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.resteasy/resteasy-servlet-initializer/3.1.4.Final/cd6ee5bea57f10d79df3ca3f6a70ad97ec7c8d72/resteasy-servlet-initializer-3.1.4.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
